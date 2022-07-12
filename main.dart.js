@@ -50986,22 +50986,22 @@ $1(a){return A.e2(this.a,B.S)},
 $S:331}
 A.Bo.prototype={
 I(a){var s,r,q,p=null,o=t.w,n=a.G(o).f,m=a.G(o).f,l=t.F
-m=A.cy(A.dz(A.dd(A.a([A.e2("assets/bathroom.jpg",B.S),B.Ij],l),B.B),p),n.a.b*0.5,m.a.a*0.2)
+m=A.cy(A.dz(A.dd(A.a([A.e2("assets/bathroom.jpg",B.S),B.Ij],l),B.B),p),n.a.b*0.46,m.a.a*0.2)
 n=a.G(o).f
 s=a.G(o).f
-s=A.cy(A.dz(A.dd(A.a([A.e2("assets/crack.jpg",B.S),B.tn],l),B.B),p),n.a.b*0.5,s.a.a*0.2)
+s=A.cy(A.dz(A.dd(A.a([A.e2("assets/crack.jpg",B.S),B.tn],l),B.B),p),n.a.b*0.46,s.a.a*0.2)
 n=a.G(o).f
 r=a.G(o).f
-r=A.cy(A.dz(A.dd(A.a([A.e2("assets/roof.jpg",B.S),B.tl],l),B.B),p),n.a.b*0.5,r.a.a*0.2)
+r=A.cy(A.dz(A.dd(A.a([A.e2("assets/roof.jpg",B.S),B.tl],l),B.B),p),n.a.b*0.46,r.a.a*0.2)
 n=a.G(o).f
 q=a.G(o).f
-q=A.tj(A.a([m,s,r,A.cy(A.dz(A.dd(A.a([A.e2("assets/interior.jpg",B.S),B.tk],l),B.B),p),n.a.b*0.5,q.a.a*0.2)],l),B.aV,B.Cd,B.b1)
+q=A.tj(A.a([m,s,r,A.cy(A.dz(A.dd(A.a([A.e2("assets/interior.jpg",B.S),B.tk],l),B.B),p),n.a.b*0.46,q.a.a*0.2)],l),B.aV,B.Cd,B.b1)
 n=a.G(o).f
 r=a.G(o).f
-r=A.cy(A.dz(A.dd(A.a([A.e2("assets/swimming.jpg",B.S),B.tj],l),B.B),p),n.a.b*0.5,r.a.a*0.2)
+r=A.cy(A.dz(A.dd(A.a([A.e2("assets/swimming.jpg",B.S),B.tj],l),B.B),p),n.a.b*0.46,r.a.a*0.2)
 n=a.G(o).f
 o=a.G(o).f
-return new A.dk(B.e0,A.dd(A.a([q,B.t6,A.tj(A.a([r,A.cy(A.dz(A.dd(A.a([A.e2("assets/tanks.jpg",B.S),B.tm],l),B.B),p),n.a.b*0.5,o.a.a*0.2)],l),B.aV,B.Ce,B.b1)],l),B.B),p)}}
+return new A.dk(B.e0,A.dd(A.a([q,B.t6,A.tj(A.a([r,A.cy(A.dz(A.dd(A.a([A.e2("assets/tanks.jpg",B.S),B.tm],l),B.B),p),n.a.b*0.46,o.a.a*0.2)],l),B.aV,B.Ce,B.b1)],l),B.B),p)}}
 A.xF.prototype={
 I(a){var s=A.a6k(!0,!0,!0,B.vr,a.G(t.w).f.a.b/2,0.8),r=t.yq
 return new A.yf(A.a6l(A.an(new A.au(A.a(["assets/1.jpg","assets/2.jpg","assets/3.jpg"],t.s),new A.Ln(),r),!0,r.i("bd.E")),s),null)}}
@@ -51013,22 +51013,22 @@ $1(a){return A.cy(A.e2(this.a,B.S),null,null)},
 $S:332}
 A.Bp.prototype={
 I(a){var s,r,q=null,p=t.w,o=a.G(p).f,n=a.G(p).f,m=t.F
-n=A.cy(A.dz(A.dd(A.a([A.e2("assets/bathroom.jpg",B.S),B.Il],m),B.B),q),o.a.b*0.23,n.a.a*0.45)
+n=A.cy(A.dz(A.dd(A.a([A.e2("assets/bathroom.jpg",B.S),B.Il],m),B.B),q),o.a.b*0.25,n.a.a*0.45)
 o=a.G(p).f
 s=a.G(p).f
-s=A.tj(A.a([n,A.cy(A.dz(A.dd(A.a([A.e2("assets/crack.jpg",B.S),B.tn],m),B.B),q),o.a.b*0.23,s.a.a*0.45)],m),B.aV,B.B,B.b1)
+s=A.tj(A.a([n,A.cy(A.dz(A.dd(A.a([A.e2("assets/crack.jpg",B.S),B.tn],m),B.B),q),o.a.b*0.25,s.a.a*0.45)],m),B.aV,B.B,B.b1)
 o=a.G(p).f
 n=a.G(p).f
-n=A.cy(A.dz(A.dd(A.a([A.e2("assets/roof.jpg",B.S),B.tl],m),B.B),q),o.a.b*0.23,n.a.a*0.45)
+n=A.cy(A.dz(A.dd(A.a([A.e2("assets/roof.jpg",B.S),B.tl],m),B.B),q),o.a.b*0.25,n.a.a*0.45)
 o=a.G(p).f
 r=a.G(p).f
-r=A.tj(A.a([n,A.cy(A.dz(A.dd(A.a([A.e2("assets/interior.jpg",B.S),B.tk],m),B.B),q),o.a.b*0.23,r.a.a*0.45)],m),B.aV,B.B,B.b1)
+r=A.tj(A.a([n,A.cy(A.dz(A.dd(A.a([A.e2("assets/interior.jpg",B.S),B.tk],m),B.B),q),o.a.b*0.25,r.a.a*0.45)],m),B.aV,B.B,B.b1)
 o=a.G(p).f
 n=a.G(p).f
-n=A.cy(A.dz(A.dd(A.a([A.e2("assets/swimming.jpg",B.S),B.tj],m),B.B),q),o.a.b*0.23,n.a.a*0.45)
+n=A.cy(A.dz(A.dd(A.a([A.e2("assets/swimming.jpg",B.S),B.tj],m),B.B),q),o.a.b*0.25,n.a.a*0.45)
 o=a.G(p).f
 p=a.G(p).f
-return new A.dk(B.e0,A.dd(A.a([s,B.iE,r,B.iE,A.tj(A.a([n,A.cy(A.dz(A.dd(A.a([A.e2("assets/tanks.jpg",B.S),B.tm],m),B.B),q),o.a.b*0.23,p.a.a*0.45)],m),B.aV,B.B,B.b1),B.iE],m),B.B),q)}}
+return new A.dk(B.e0,A.dd(A.a([s,B.iE,r,B.iE,A.tj(A.a([n,A.cy(A.dz(A.dd(A.a([A.e2("assets/tanks.jpg",B.S),B.tm],m),B.B),q),o.a.b*0.25,p.a.a*0.45)],m),B.aV,B.B,B.b1),B.iE],m),B.B),q)}}
 A.zW.prototype={
 I(a){var s,r,q=null,p=t.w,o=a.G(p).f
 if(a.G(p).f.a.a>800)s=15
